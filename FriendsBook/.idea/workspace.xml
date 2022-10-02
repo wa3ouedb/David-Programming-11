@@ -4,20 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c24041e3-c09d-4f01-8344-0949ecb3dbbe" name="Changes" comment="" />
+    <list default="true" id="47f564bf-b646-4a1d-8d38-000ef90adff1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2DXeWlF1h6K7aYeKCCs2nOwFEpH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2Dlid5cb58s9IFZIJ6g0YwumsnN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,12 +29,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/david/Documents/David Yao/Computer Programming/GitHub/David-Programming-11/FriendsBook&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
   <component name="RunManager">
-    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.example.friendsbook.HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.friendsbook.HelloApplication" />
       <module name="FriendsBook" />
       <extension name="coverage">
@@ -46,23 +48,31 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.com.example.friendsbook.HelloApplication" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c24041e3-c09d-4f01-8344-0949ecb3dbbe" name="Changes" comment="" />
-      <created>1660849890180</created>
+      <changelist id="47f564bf-b646-4a1d-8d38-000ef90adff1" name="Changes" comment="" />
+      <created>1661280156342</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1660849890180</updated>
-      <workItem from="1660849891828" duration="772000" />
-      <workItem from="1661187300864" duration="57000" />
-      <workItem from="1661187374350" duration="27000" />
-      <workItem from="1661187590846" duration="43000" />
-      <workItem from="1661187636687" duration="1000" />
+      <updated>1661280156342</updated>
+      <workItem from="1661280157760" duration="1075000" />
+      <workItem from="1661281250096" duration="249000" />
+      <workItem from="1661281506069" duration="1406000" />
+      <workItem from="1661450717951" duration="819000" />
+      <workItem from="1661451681987" duration="451000" />
+      <workItem from="1661452245074" duration="2289000" />
+      <workItem from="1661454619512" duration="1160000" />
+      <workItem from="1661455832504" duration="70000" />
+      <workItem from="1661883414195" duration="406000" />
+      <workItem from="1662016281599" duration="135000" />
+      <workItem from="1662759363443" duration="88000" />
+      <workItem from="1662763771549" duration="306000" />
+      <workItem from="1664692141601" duration="284000" />
     </task>
     <servers />
   </component>
