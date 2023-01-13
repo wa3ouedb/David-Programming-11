@@ -22,10 +22,12 @@ public class TestDeposit {
     @Test
     public void toStringTest(){
 
+        //assures that Savings deposit works correctly
         Date adate = new Date(0);
         String resultSaving = "Deposit of: $" + 100.0 + " Date: " + adate.toString() + " into account: " + "Savings";
         assertTrue(depositSaving.toString().equals(resultSaving));
 
+        //assures that Chequings deposit works correctly
         String resultChequing = "Deposit of: $" + 100.0 + " Date: " + adate.toString() + " into account: " + "Chequing";
         assertTrue(depositChequing.toString().equals(resultChequing));
 
